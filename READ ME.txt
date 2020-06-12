@@ -1,0 +1,18 @@
+Tanıtım: Projemin ismi etkinlik takip programı.
+Dünyamızda düzenlenen; seminerler, toplantılar gibi katılımın oldukça yüksek olduğu organizasyonlarda oluşan yoğunluk ve sıkıntılar sonucunda katılımcı kayıt işlemleri bir hayli uzuyor.
+Benim geliştirdiğim bu sistem sayesinde ise bu sorun ortadan kalkacak. Girişte QR kod okuma sistemiyle katılımcılar öncenden kendilerine gönderilen kodlar okutarak sisteme girişlerini yapabilecekler.
+Bu sayede oluşan yoğunluk minimuma inmiş olacak 
+
+
+-----------------------------------------------------------------------------*--------------------------------------------------------------------------------
+Oluşturduğum sistemde QR kod okuma kısmında kamerayı varsayılan kamera olarak alıyor eğer bilgisayarınızda ki 
+kameraya harici erişim sağlanamıyorsa onu açmanız gerek.
+Ayrıca yine QR kod okuma kısmında oluşturulan QR kod şu şekilde olmalı boşluklar
+dahil olarak "id ad soyad bölüm" katılımcının iki adı varsa tek adı yazılmalı
+ve bölüm tek satır halinde yazılmalı aksi taktirde okunan veriyi veritabanına atmayacaktır.
+ program boşluklara göre atama işlemi yapıyor. 
+
+
+
+Gürkan Şentürk - 180542019
+www.gurkansenturk.com
